@@ -7,7 +7,7 @@
   <h3 align="center">santiago'</h3>
 
   <p align="center">
-    Discord Bot & CS:GO Cheat Developer
+    Discord Bot & Cheat Developer
     <br />
   <br />
   <br />
