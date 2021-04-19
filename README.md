@@ -17,5 +17,5 @@
   <ui><b>Repositories</b></ui>
      <ul>
       <li><a href=https://github.com/LuciaKRPNR/wanhedabot/>Wanheda Discord Bot</href></li>
-      <li><a href=https://github.com/santiagocss/WareProject>Ware Project</href></li>
+      <li><a href=https://github.com/santiagocss/WareProject>Ware Project 2.0</href></li>
    </ul>
