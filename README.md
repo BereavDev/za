@@ -1,4 +1,3 @@
-![/](https://bereavdev.github.io/cdn/20210831_043254.png)
 ### 📖 Hakkımda
 Selam, ben BereavDev. Lise öğrencisiyim ve yazılım üzerine çalışmalar yapıyorum.
 ### 💻 Kullandığım yazılım dilleri;
